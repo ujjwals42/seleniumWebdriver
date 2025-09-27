@@ -10,9 +10,9 @@ import org.testng.annotations.Test;
 
 public class FirstTestcase {
 	
-	
+	// change the next line priority to check in git functionality
 
-	@Test(priority =1)
+	@Test(priority =5)
 	void openapp() {
 		System.out.println("open application ");
 	}
